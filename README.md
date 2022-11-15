@@ -1,4 +1,4 @@
-# Emails-spam-classification-using-Nai-ve-Bayes
+# Emails-spam-classification-using-Naive-Bayes
 
 
 In this project we worked with the dataset at https://spamassassin.apache.org/old/publiccorpus/ which included three types of files in this locations: 
