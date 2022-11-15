@@ -1,10 +1,7 @@
-# Emails-spam-classification-using-Na-ve-Bayes
+# Emails-spam-classification-using-Nai-ve-Bayes
 
-This project is a part of the course Introduction to Data Science and AI given at Chalmers University of Technology in April 2022.
 
-Grade 9/10.
-
-In this assignment we worked with the dataset at https://spamassassin.apache.org/old/publiccorpus/ which included three types of files in this locations: 
+In this project we worked with the dataset at https://spamassassin.apache.org/old/publiccorpus/ which included three types of files in this locations: 
 
 • easy-ham: non-spam messages typically quite easy to differentiate from spam messages.
 
